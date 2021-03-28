@@ -11,17 +11,6 @@ struct ContentView: View {
     var body: some View {
         VStack() { // ~ flex direction: column
             Spacer() // ~ flex: 1
-
-             Text("Text Challenge")
-             .padding()
-             .background(Color.green)
-             .foregroundColor(Color.white)
-             .cornerRadius(10)
-             .padding()
-             .background(Color.blue)
-             .cornerRadius(10)
-
-            Spacer()
             
             Image("Steve Jobs")
                 .resizable()
