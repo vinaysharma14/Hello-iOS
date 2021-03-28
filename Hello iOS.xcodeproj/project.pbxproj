@@ -11,6 +11,7 @@
 		D40857BE260F650B001F8B53 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D40857BD260F650B001F8B53 /* ContentView.swift */; };
 		D40857C0260F650C001F8B53 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D40857BF260F650C001F8B53 /* Assets.xcassets */; };
 		D40857C3260F650C001F8B53 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D40857C2260F650C001F8B53 /* Preview Assets.xcassets */; };
+		D445C1B02610DFA9000C7597 /* CardWar.swift in Sources */ = {isa = PBXBuildFile; fileRef = D445C1AF2610DFA9000C7597 /* CardWar.swift */; };
 		D4C03BD12610819D00872270 /* TextChallenge.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4C03BD02610819D00872270 /* TextChallenge.swift */; };
 		D4C03BD4261084AA00872270 /* ImageChallenge.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4C03BD3261084AA00872270 /* ImageChallenge.swift */; };
 /* End PBXBuildFile section */
@@ -22,6 +23,7 @@
 		D40857BF260F650C001F8B53 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D40857C2260F650C001F8B53 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D40857C4260F650C001F8B53 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D445C1AF2610DFA9000C7597 /* CardWar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardWar.swift; sourceTree = "<group>"; };
 		D4C03BD02610819D00872270 /* TextChallenge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextChallenge.swift; sourceTree = "<group>"; };
 		D4C03BD3261084AA00872270 /* ImageChallenge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageChallenge.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -63,6 +65,7 @@
 				D40857C1260F650C001F8B53 /* Preview Content */,
 				D4C03BD02610819D00872270 /* TextChallenge.swift */,
 				D4C03BD3261084AA00872270 /* ImageChallenge.swift */,
+				D445C1AF2610DFA9000C7597 /* CardWar.swift */,
 			);
 			path = "Hello iOS";
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D445C1B02610DFA9000C7597 /* CardWar.swift in Sources */,
 				D4C03BD12610819D00872270 /* TextChallenge.swift in Sources */,
 				D4C03BD4261084AA00872270 /* ImageChallenge.swift in Sources */,
 				D40857BE260F650B001F8B53 /* ContentView.swift in Sources */,
