@@ -12,6 +12,7 @@
 		D40857C0260F650C001F8B53 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D40857BF260F650C001F8B53 /* Assets.xcassets */; };
 		D40857C3260F650C001F8B53 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D40857C2260F650C001F8B53 /* Preview Assets.xcassets */; };
 		D4C03BD12610819D00872270 /* TextChallenge.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4C03BD02610819D00872270 /* TextChallenge.swift */; };
+		D4C03BD4261084AA00872270 /* ImageChallenge.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4C03BD3261084AA00872270 /* ImageChallenge.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D40857C2260F650C001F8B53 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D40857C4260F650C001F8B53 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D4C03BD02610819D00872270 /* TextChallenge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextChallenge.swift; sourceTree = "<group>"; };
+		D4C03BD3261084AA00872270 /* ImageChallenge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageChallenge.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				D40857C4260F650C001F8B53 /* Info.plist */,
 				D40857C1260F650C001F8B53 /* Preview Content */,
 				D4C03BD02610819D00872270 /* TextChallenge.swift */,
+				D4C03BD3261084AA00872270 /* ImageChallenge.swift */,
 			);
 			path = "Hello iOS";
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D4C03BD12610819D00872270 /* TextChallenge.swift in Sources */,
+				D4C03BD4261084AA00872270 /* ImageChallenge.swift in Sources */,
 				D40857BE260F650B001F8B53 /* ContentView.swift in Sources */,
 				D40857BC260F650B001F8B53 /* Hello_iOSApp.swift in Sources */,
 			);
